@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ganj": {
+      "commandName": "Project",
+      "commandLineArgs": "serving 1500000 2000000"
+    }
+  }
+}
